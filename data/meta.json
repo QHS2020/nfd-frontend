@@ -1,0 +1,40 @@
+{
+  "center": [
+    103.81457750833258,
+    1.3413999493053286
+  ],
+  "zoom": 11.520235917804584,
+  "pitch": 45,
+  "bearing": -20,
+  "bounds": [
+    [
+      103.59913148575201,
+      1.2035904506161015
+    ],
+    [
+      104.03002353091314,
+      1.4792094479945554
+    ]
+  ],
+  "time": {
+    "min": 29577.599609375,
+    "max": 32460.111328125,
+    "peak": 31800.0,
+    "initial": 30744.0
+  },
+  "density": {
+    "file": "density.bin",
+    "meta": "density_meta.json",
+    "scale": 1000000000.0
+  },
+  "counts": {
+    "buildings": 20000,
+    "roads": 18336,
+    "centerlines": 28,
+    "trajectories": 28,
+    "aircraft": 28,
+    "od": 12,
+    "densityFrames": 145,
+    "densityCells": 3575
+  }
+}
